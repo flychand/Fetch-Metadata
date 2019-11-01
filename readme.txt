@@ -1,5 +1,5 @@
 ==============================================================
- Small utility library to fetch metadata of any urls
+ Small utility library to fetch metadata for any urls
 =============================================================
 Desc: This library is for fetch metadata of any given urls
       It accept one url at a time.
